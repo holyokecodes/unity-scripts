@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// Add to camera that is a child of player gameObject
 // from https://www.youtube.com/watch?v=blO039OzUZc
 
 public class camMouseLook : MonoBehaviour
